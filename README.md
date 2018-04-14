@@ -21,4 +21,4 @@ open Open [http://localhost:3000](http://localhost:3000/) if not.
 - Bootstrap 3.x
 
 ## Preview
-![reactjs project](https://picasaweb.google.com/104212071483739876689/6544391653526776881#6544391658732926498 "contact project")
+https://drive.google.com/open?id=1304sKQ9OMJryFKE8XXNevYf2W7jG4F49
